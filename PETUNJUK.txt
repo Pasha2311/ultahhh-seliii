@@ -1,0 +1,5 @@
+Ganti file ini ke folder website Seli.
+Letakkan index.html, script.js, dan style.css dalam satu folder.
+Folder assets tetap diperlukan, termasuk musik.mp3 dan foto-foto.
+
+Musik akan dicoba diputar otomatis saat halaman dibuka. Jika browser memblokir autoplay bersuara, pengunjung cukup klik sekali di halaman atau tombol MUSIC.
